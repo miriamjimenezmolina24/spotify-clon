@@ -1,4 +1,6 @@
 #Ignore
-node_modules
-.npm
-.next
+/node_modules
+
+### NextJS ###
+# Next build dir
+.next/
